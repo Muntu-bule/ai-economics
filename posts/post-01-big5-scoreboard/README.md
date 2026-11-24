@@ -5,4 +5,4 @@
 **Data:** `data/big5_scoreboard.csv`
 **Reproduce:** from repo root, run `python code/make_chart.py`
 **Sources:** see `SOURCES.md` (Evident AI Index 2026, Oct 2026 edition; bank disclosures).
-**Live copy:** V2, 99 words, posts Mon Nov 23, daily run day 1.
+
