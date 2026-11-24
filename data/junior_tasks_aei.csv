@@ -1,0 +1,11 @@
+task,hours_per_day,llm_capability,observed_copilot_use,agent_autonomy_2030,verdict
+Summarize overnight news & earnings releases,1.5,0.95,0.8,0.9,Agent-led
+Pull & clean data from filings and terminals,1.0,0.9,0.7,0.85,Agent-led
+Compliance & disclosure checks on documents,0.5,0.85,0.6,0.8,Agent-led (human sign-off)
+Update comps & valuation models,1.5,0.85,0.75,0.75,Agent-led (human-checked)
+Draft research notes & pitchbook pages (first drafts),2.0,0.9,0.8,0.65,Augmented
+Prepare meeting briefs & client Q&A prep,0.75,0.85,0.65,0.6,Augmented
+Ad-hoc senior requests (quick analysis by EOD),0.5,0.75,0.55,0.55,Augmented
+Reconcile numbers & hunt model errors,0.75,0.7,0.5,0.5,Augmented
+"Meetings: listen, take notes, build relationships",1.0,0.4,0.3,0.25,Human-core
+"Judgment: what to flag, thesis changes, calls",0.5,0.45,0.25,0.2,Human-core

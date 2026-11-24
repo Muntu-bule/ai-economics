@@ -1,0 +1,11 @@
+task,hours_per_day,llm_capability,observed_copilot_use,agent_autonomy_2030,verdict
+"Write boilerplate code, scaffolding & config",1.5,0.95,0.85,0.9,Agent-led
+"Write documentation, comments & changelogs",0.5,0.95,0.8,0.9,Agent-led
+Write unit tests & test fixtures,0.75,0.9,0.8,0.85,Agent-led
+"Dependency updates, migrations & lint fixes",0.5,0.9,0.7,0.85,Agent-led
+"Fix routine, well-specified bugs from tickets",1.25,0.85,0.75,0.8,Agent-led
+Implement well-specified feature tickets (design given),1.25,0.8,0.7,0.7,Agent-led (human-checked)
+First-pass code review of peers' pull requests,0.5,0.8,0.65,0.65,Augmented
+Debug production incidents with senior guidance,0.75,0.7,0.55,0.55,Augmented
+System design & architecture trade-off discussions,0.5,0.5,0.35,0.3,Human-core
+Cross-team coordination & clarifying business requirements,0.5,0.45,0.3,0.25,Human-core

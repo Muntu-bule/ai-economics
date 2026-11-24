@@ -1,0 +1,10 @@
+task,hours_per_day,llm_capability,observed_copilot_use,agent_autonomy_2030,verdict
+"Answer routine balance, transaction & status inquiries",2.0,0.95,0.85,0.9,Agent-led
+Summarize calls & log CRM notes (after-call work),0.75,0.95,0.85,0.9,Agent-led
+"Process simple service requests (cards, address, limits)",1.0,0.9,0.75,0.85,Agent-led
+Authenticate callers & verify identity (KYC steps),0.75,0.85,0.7,0.8,Agent-led (human sign-off)
+Handle billing disputes & charge inquiries,0.75,0.75,0.6,0.65,Augmented
+Troubleshoot digital banking app issues with clients,0.75,0.7,0.55,0.55,Augmented
+"Escalation judgment: spot fraud, decide transfers",0.25,0.55,0.35,0.35,Human-core
+De-escalate frustrated clients & retention talks,0.75,0.45,0.3,0.3,Human-core
+"Support vulnerable clients: fraud victims, hardship, bereavement",0.5,0.4,0.25,0.2,Human-core

@@ -1,0 +1,4 @@
+occupation,post,tasks,hours_per_day,agent_executable_pct,human_core_pct,human_core_label,source_csv
+Junior Analyst,Post #2,10,10.0,64.75,35.25,Judgment and relationships,data/junior_tasks_aei.csv
+Contact Centre,Post #4,9,7.5,69.83,30.17,Empathy under pressure,data/contact_centre_tasks_aei.csv
+Junior Developer,Post #5,10,8.0,71.88,28.12,Design and translation,data/junior_dev_tasks_aei.csv

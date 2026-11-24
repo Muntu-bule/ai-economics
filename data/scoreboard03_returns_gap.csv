@@ -1,0 +1,26 @@
+# Scoreboard #3 — The Returns Gap — data file
+# Slot: Mon 2026-11-16, 8-9am ET (Act 1 of the Nov 16 double scoreboard; Act 2 is Scoreboard #4, the Capex Tracker, same afternoon).
+# Status: figures verified 2026-11-01 / 2026-11-07 from already-checked material; no new data hunt.
+# Gate: Evident 2026 figures below rest on Evident's own briefing text + the reproduced table
+# (Insurance-Edge 2026-10-07). The CA-vs-US split of the 12 reporting banks is NOT verified —
+# do NOT print a split. Fallback angle (used in the post copy): field-level gap with RBC/TD
+# as the Canadian case. TD figure prints as VALUE, not "return" (no spend denominator disclosed).
+# Currency explicit: CAD where stated.
+metric,value,unit,note,source
+use_cases_disclosed,1107,count,AI use cases disclosed by top-50 banks since 2021,Evident AI Index 2026 (briefing + reproduced table)
+pct_disclosing_kpi_effect,12,percent_of_use_cases,Share of use cases disclosing an effect on an operational KPI,Evident AI Index 2026
+pct_disclosing_financial_return,1,percent_of_use_cases,Barely ~1% disclose a concrete financial return,Evident AI Index 2026
+banks_reporting_value,12,count_of_50,Top-50 banks reporting realised or projected AI value (up from 8),Evident AI Index 2026
+banks_reporting_value_pct,24,percent_of_banks,12 of 50 banks = 24%,Computed from Evident AI Index 2026
+rbc_ai_value_target_low,700,CAD_million,RBC target: roughly $700M net AI value by next year (Evident own text); range C$700M-$1B by FY2027,Evident briefing text; RBC disclosures
+rbc_ai_value_target_high,1000,CAD_million,Top of RBC attributed target range C$700M-$1B by FY2027,RBC disclosures
+td_ai_value_9m,195,CAD_million,TD AI value in first nine months of FY2026,TD Q3 presentation via Investment Executive 2026-10-06
+td_ai_value_target,200,CAD_million,TD full-year FY2026 AI value target (195/200 = 97.5%),TD Q3 presentation via Investment Executive 2026-10-06
+mit_nanda_pilots_with_pnl,5,percent_of_pilots,Enterprise genAI pilots with measurable P&L impact,MIT Project NANDA (2025)
+avg_bank_score_yoy,26,percent,Average bank score +26% YoY (+9.6 points),Evident AI Index 2026
+spread_top10_narrowed,25,percent,Spread between #1 and #10 narrowed 25%,Evident AI Index 2026
+# No vault material in this file: no AEI weights, calibration, verification-cost operationalization,
+# wage-regression design, or unpublished occupations.
+# Sources: https://evidentinsights.com/bankingbrief/inside-the-2026-ai-index/
+# https://insurance-edge.net/2026/10/07/jpmorgan-chase-rated-as-most-advanced-ai-bank/
+# MIT Project NANDA (2025), as used in Post #3.

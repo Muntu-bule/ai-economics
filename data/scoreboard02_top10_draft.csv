@@ -1,0 +1,42 @@
+# Scoreboard #2 — The US Edition — DRAFT data file, NOT for publication on its own
+# Slot: Mon 2026-11-02, 8-9am ET. Angle approval by Mo still required before any post copy or chart.
+# Gate status (2026-11-20, direct Evident check): VERIFIED DIRECT — Evident AI Index: Key Findings
+# Report, October 2026 (evidentinsights.com, PDF) p.4 rankings table + 2023-2026 change table, and
+# Evident's own briefing page "Inside the 2026 AI Index". All 10 ranks and 2025 ranks below now rest
+# on Evident direct, NOT secondary reporting — including Morgan Stanley 5->9, previously unverified.
+# Field stats also direct from the report: avg score +26% (+9.6 pts, 36.5->46.1); #1-#10 gap -25%;
+# n=1,107 use cases 2021-2026 YTD; only 12% disclose an operational-KPI effect, barely ~1% a direct
+# financial result; 12 banks report realised/projected AI value, up from 8. New direct fact: 8 of the
+# top 10 are headquartered in North America (6 US + 2 Canada), up from 6 in 2023.
+# Angle approval by Mo STILL required before any post copy or chart. Slot in daily run TBD (one of
+# Nov 28-30 / Dec 3-5, per the 14-day run Nov 23-Dec 6).
+# TD dollar figure — RECONCILED 2026-11-12 (see scoreboard-03-td-reconciliation-2026-11-12.md):
+# C$195M AI value in first nine months of FY2026 vs C$200M full-year target is TD's own Q3 disclosure
+# (slide 5, 27 Aug 2026); Evident's Sept 3 Brief quotes the same figure as US$141M (FX 1.383). Evident's
+# briefing page restates it as "$137 million" — same figure $4M lower, do NOT print $137M. C$195M is
+# printable with currency explicit (Scoreboard #3 prints it that way, angle approved Nov 13). For #6,
+# still leave the dollar figure out of copy — ranks + use-case stats carry the angle without a currency
+# footnote.
+# RBC figure: attributed target range C$700M-$1B net AI value by fiscal 2027; Evident's own text
+# says "roughly $700 million by next year" — that is the floor of the range, not a conflict.
+rank_2026,bank,rank_2025,change,prior_rank_source
+1,JPMorganChase,1,0,Evident table reproduced by Insurance-Edge 2026-10-07; Evident own text: #1 fifth straight year
+2,Capital One,2,0,Evident table reproduced by Insurance-Edge 2026-10-07; Evident own text: #2 retained
+3,RBC,3,0,Evident table reproduced by Insurance-Edge 2026-10-07; Evident own text: #3 held podium
+4,CommBank,4,0,Evident table reproduced by Insurance-Edge 2026-10-07; Evident own text: #4 stayed
+5,Wells Fargo,6,1,Evident own text: jumped a spot to enter top five
+6,UBS,7,1,Evident table reproduced by Insurance-Edge 2026-10-07 (Evident own text confirms #6 only)
+7,Bank of America,10,3,Evident table reproduced by Insurance-Edge 2026-10-07; same article text: climbs three places to #7
+8,Citigroup,12,4,Evident own text: #8 (+4)
+9,Morgan Stanley,5,-4,Evident table reproduced by Insurance-Edge 2026-10-07
+10,TD,13,3,Evident own text: #10 (+3)
+# Canadian banks outside top 10 (secondary reporting, same outline): BMO #20, CIBC #21, Scotiabank #30
+# Field-level context (Evident 2026, 50 banks, 75 indicators): average bank score +26% YoY (+9.6 points);
+# spread #1-#10 narrowed 25%; 1107 AI use cases disclosed since 2021; only 12% disclose an operational-KPI
+# effect and barely ~1% a concrete financial return; 12 banks report actual/targeted AI value, up from 8.
+# Sources checked 2026-11-01:
+# - https://evidentinsights.com/bankingbrief/inside-the-2026-ai-index/
+# - https://insurance-edge.net/2026/10/07/jpmorgan-chase-rated-as-most-advanced-ai-bank/
+# - TD C$195M figure also in Investment Executive via TD Q3 presentation (reported 2026-10-06), per 2026-11-01 week-ahead note.
+# No vault material in this file: no AEI weights, calibration, verification-cost operationalization,
+# wage-regression design, or unpublished occupations.
