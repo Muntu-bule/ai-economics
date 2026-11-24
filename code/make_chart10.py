@@ -1,10 +1,9 @@
-"""Post #10 chart — Scoreboard #4, AI Capex Tracker (Mon 2026-11-16, ~4pm ET).
-Act 2 of the Nov 16 double scoreboard; Act 1 is Scoreboard #3 (The Returns Gap) at 8am.
+"""Post #10 chart — Scoreboard #4, AI Capex Tracker (Wed 2026-12-02).
 Regenerates byte-identically from data/scoreboard04_capex_tracker.csv.
 Chart: the four comparable disclosed tech budgets, native currencies labelled on each bar.
-Banks with no comparable total (TD, BMO, Scotiabank, CIBC, Citi, Capital One) are NOT charted —
+Banks with no comparable total (TD, BMO, Scotiabank, CIBC, Citi, Capital One) are not charted —
 they are listed as gaps in the post copy and the data-file comments.
-Run from ~/workspace/rbc-ai-wages: python3 make_chart10.py
+Run from repo root: python3 code/make_chart10.py
 """
 import matplotlib
 matplotlib.use("Agg")

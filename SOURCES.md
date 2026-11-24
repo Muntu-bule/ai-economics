@@ -27,15 +27,15 @@ Accessed October 2026 unless noted. Rule: no source line, no number in a post.
 - Wilmers et al. (Oct 2026), "How employment is changing at Anthropic" — Anthropic Institute (junior share of technical hires 27% → 9%; agent hours vs human hours).
 - Felten, Raj & Seamans AI Occupational Exposure (AIOE) scores — https://raw.githubusercontent.com/openai/GPTs-are-GPTs/main/data/autoScores.csv (column: felten_raj_seamans; verified live 2026-10-20).
 
-## Consultancy AI value claims (Post 03 V3) — each firm's own published claim, bases labelled
-Accessed Nov 2026. The firms do NOT publish the same kind of number — McKinsey is per year globally, Accenture is three years for the top 200 banks, Deloitte is margin not dollars. They are not directly comparable; the method note says so.
+## Consultancy AI value claims (Post #3) — each firm's own published claim, bases labelled
+Accessed Nov 2026. The firms do not publish the same kind of number — McKinsey is per year globally, Accenture is three years for the top 200 banks, Deloitte is margin not dollars. They are not directly comparable; the method note says so.
 - McKinsey Global Institute (2023), "The Economic Potential of Generative AI" — generative AI could add USD 200–340B in annual value to global banking (9–15% of operating profits). Basis: per year, global.
 - Accenture, "Top Banking Trends for 2026" — USD 289B in potential benefits from scaled gen AI adoption over the next three years, based on analysis across the top 200 global banks. Basis: three years, top 200.
   - https://www.accenture.com/en/insights/banking/accenture-banking-trends-2026
 - Deloitte, "Changing the game: The impact of artificial intelligence on the banking and capital markets sector" (Deloitte Global Financial Services, June 2024) — potential operating margin increase of 5–7% in 2–3 years, 10–15% in 5–7 years, on a typical cost-to-income profile. Basis: operating margin, not dollars.
   - https://www.deloitte.com/us/en/alliances/articles/oracle-alliance-changing-the-game.html
 - EY-Parthenon, 2025 Generative AI in Banking survey (100 senior decision-makers) — 47% of banks have fully implemented generative AI applications in 2025, up from 10% in 2023. Via secondary reporting — confirm against EY's own page before any wider claim.
-- KPMG, Q3 2026 pulse, banking cut (n=100, $1B+ US banks) — 65% report measurable value. NOT USED: the 65% could not be verified against a primary source (the Q3 2026 KPMG deck found says 58% of large US firms, cross-industry, n=314; no Q3 2026 Banking deck found). Post #3 V4 (Nov 25) omits KPMG rather than printing the figure unverified; the method note says so.
+- KPMG, Q3 2026 pulse, banking cut (n=100, $1B+ US banks) — 65% report measurable value. Not quoted: the 65% could not be verified against a primary source (the Q3 2026 KPMG deck found says 58% of large US firms, cross-industry, n=314; no Q3 2026 Banking deck found). Post #3 omits KPMG rather than printing the figure unverified; the method note says so.
 
 ## North America top 10 (Post 06)
 - Evident AI Index 2026, Key Findings Report (Oct 2026) — read directly Nov 20, 2026: all ten 2026 and 2025 ranks; average score 36.5 → 46.1 (+26%); top-10 spread narrowed 25%; 1,107 use cases; 12% disclosing a KPI effect, ~1% a financial result; 12 banks reporting value, up from 8; 8 of the top 10 headquartered in North America (6 US, 2 Canadian), up from 6 in 2023. Top 10: JPMorganChase, Capital One, RBC, CommBank, Wells Fargo, UBS, Bank of America, Citigroup, Morgan Stanley, TD.

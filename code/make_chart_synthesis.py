@@ -1,6 +1,6 @@
 """Synthesis chart — AEI public launch, "Three Occupations, One Pattern".
 
-Built 2026-11-20 after Mo chose "Synthesis today" (cascades decision).
+Built 2026-11-20.
 Reads the same verified summary file as Post #14
 (data/post14_pipeline_summary.csv) and asserts the three figures match
 the published Task Watch CSVs before drawing anything. No new number,

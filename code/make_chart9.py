@@ -1,9 +1,8 @@
-"""Post #9 chart — Scoreboard #3, The Returns Gap (Mon 2026-11-16, 8am ET).
-Act 1 of the Nov 16 double scoreboard; Act 2 is Scoreboard #4 (Capex Tracker) the same afternoon.
+"""Post #9 chart — Scoreboard #3, The Returns Gap (Tue 2026-12-01).
 Regenerates byte-identically from data/scoreboard03_returns_gap.csv.
 Chart: the disclosure funnel as three shares — use cases disclosing a KPI effect (12%),
 use cases disclosing a financial return (~1%), top-50 banks reporting any AI value (12 of 50 = 24%).
-Run from ~/workspace/rbc-ai-wages: python3 make_chart9.py
+Run from repo root: python3 code/make_chart9.py
 """
 import matplotlib
 matplotlib.use("Agg")

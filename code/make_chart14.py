@@ -1,4 +1,4 @@
-"""Post #14 chart — angle approved by Mo 2026-11-19.
+"""Post #14 chart — the junior pipeline problem.
 
 Recomputes the three headline figures directly from the published task
 CSVs and asserts they match data/post14_pipeline_summary.csv before

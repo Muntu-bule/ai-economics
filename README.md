@@ -17,9 +17,9 @@ Each LinkedIn post in the series has a folder under `posts/` containing the post
 | 09 | Scoreboard #3: The Returns Gap | 1,107 use cases; only 12 of 50 banks report value |
 | 10 | Scoreboard #4: The Capex Tracker | Tech budgets vs AI spend — the value can't be tracked from capex alone |
 | 14 | 2027 Conversations #1: The Junior Pipeline Problem | 65% / 70% / 72% — one pattern across three junior occupations |
-| Synthesis | Three Occupations, One Pattern | The AEI public launch — not one of the fourteen; slot TBD after the run |
+| Synthesis | Three Occupations, One Pattern | The AEI public launch — not one of the fourteen; follows the daily run |
 
-Scope: banking, starting with Canada's Big 5 and expanding to North America's top 10. Word rule: every post body is 99 words or fewer, or exactly 132 — never 100–131, never above 132.
+Scope: banking, starting with Canada's Big 5 and expanding to North America's top 10.
 
 ## Method (public summary)
 

@@ -1,9 +1,8 @@
 # Scoreboard #4 — AI Capex Tracker — data file
-# Slot: Mon 2026-11-16, ~4pm ET (Act 2 of the Nov 16 double scoreboard; Act 1 is Scoreboard #3, The Returns Gap, 8am).
-# Status: figures verified live 2026-11-08 from bank disclosures and earnings-call reporting (see sources).
-# HONESTY RULES for this file (the whole point of the post):
-# - "Tech spend" is what banks disclose. NO bank breaks out AI spend cleanly — never print a tech-spend
-#   figure as "AI spend". JPMorgan's own CFO says AI spend is "too diffused to ring-fence".
+# Figures verified live 2026-11-08 from bank disclosures and earnings-call reporting (see SOURCES.md).
+# How to read this file:
+# - "Tech spend" is what banks disclose. No bank breaks out AI spend cleanly, so a tech-spend
+#   figure is never presented as "AI spend". JPMorgan's own CFO says AI spend is "too diffused to ring-fence".
 # - Currencies are native as disclosed (USD vs CAD). No silent conversion. The FX line below is
 #   approximate, for scale only, and is labelled as such wherever it is used.
 # - A bank with no comparable total is a GAP, not a zero. Gaps are listed, not charted.
@@ -12,9 +11,9 @@ JPMorgan Chase,US,USD,18,US$18B,Total technology budget,2025,"CFO Jeremy Barnum,
 Bank of America,US,USD,12.7,US$~13B,Total technology spend (about $4B of it new initiatives incl. AI),2025,"CEO Brian Moynihan, Investor Day Nov 5 2025 (PYMNTS; eMarketer reports $12.7B total)"
 Wells Fargo,US,USD,10,US$10B+,Technology budget ABOVE $10B (floor disclosed),2026,"Bank disclosure profile Oct 2026; 30000 technologists"
 Royal Bank of Canada,CA,CAD,6,C$~6B,"Total technology cash spend, FY2025","RBC investor deck Q3 2026 (workspace-verified); long-standing line C$5B+/yr"
-# GAPS — no comparable total published (listed in the post, NOT charted as bars):
+# GAPS — no comparable total published (listed in the post, not charted as bars):
 # TD — does not disclose total technology spend (eMarketer, Dec 2025). eMarketer's own $4B forecast
-#   for 2026 is a forecast, NOT a TD disclosure — do not print it as TD's figure.
+#   for 2026 is a forecast, not a TD disclosure.
 # BMO — no total technology spend published. Disclosed instead: AI value target ~C$1B/yr
 #   pre-provision pre-tax income by 2030 (Sep 2026); ~C$85M annualised FY2025 revenue from
 #   personalised offers (Investor Day). AI adoption 96%+ of employees.
@@ -22,13 +21,13 @@ Royal Bank of Canada,CA,CAD,6,C$~6B,"Total technology cash spend, FY2025","RBC i
 #   for coding (Jun 2026); 71000+ with access to Scotia Intelligence.
 # CIBC — no total technology spend published. Disclosed expense line (NOT total tech spend):
 #   computer, software and office equipment C$2946M in FY2025 (CIBC consolidated financial
-#   statements 2025, primary source). Do not chart this as CIBC's tech spend.
+#   statements 2025, primary source). Not charted as CIBC's tech spend.
 # Citigroup — no total technology budget published. CFO Gonzalo Luchetti (Q3 2026 call):
 #   ~US$2B per year in technology investment, AI layered on top — a narrow investment
-#   measure, NOT a total tech budget. Do not chart it as one.
+#   measure, not a total tech budget.
 # Capital One — does not publish a technology budget. Disclosed: 14000+ technology workforce;
 #   all-in on AWS since 2020.
-# AI-SPECIFIC figures (separate from tech totals — the denominator problem, Act 1's other half):
+# AI-SPECIFIC figures (separate from tech totals — the denominator problem):
 # JPMorgan AI spend: ~US$0.7B/yr (CFO Barnum, Q3 2026 call Oct 13 2026); prior ~US$2B/yr
 #   (CEO Dimon, Oct 2025) now called stale by Barnum; AI benefits "not yet visible in quarterly
 #   earnings" (Barnum, Oct 2026).

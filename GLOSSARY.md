@@ -28,4 +28,4 @@
 | Contact-centre agent | 69.8% | 65.5% | 9 tasks, 7.5 h |
 | Junior developer | 71.9% | — | 10 tasks, 8.0 h |
 
-*Sources: task scores in `data/junior_tasks_aei.csv`, `data/contact_centre_tasks_aei.csv`, `data/junior_dev_tasks_aei.csv`; capability and use grounded in the Anthropic Economic Index and Felten AIOE; bank deployment facts from bank disclosures and earnings calls. Method: `~/workspace/aei-core-scaffold/FORMULA.md` (vault).*
+*Sources: task scores in `data/junior_tasks_aei.csv`, `data/contact_centre_tasks_aei.csv`, `data/junior_dev_tasks_aei.csv`; capability and use grounded in the Anthropic Economic Index and Felten AIOE; bank deployment facts from bank disclosures and earnings calls. Method: the Agentic Exposure Index (AEI); the formula and calibration are held privately — only the scores are published here.*

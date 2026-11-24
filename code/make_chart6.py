@@ -1,5 +1,5 @@
-"""Post #6 chart — Scoreboard #2, The US Edition (Sat 2026-11-28, daily run day 6).
-Angle (approved by Mo 2026-11-21, North America angle): eight of the top ten are
+"""Post #6 chart — Scoreboard #2, The US Edition (Sat 2026-11-28).
+Angle: eight of the top ten are
 North American, up from six in 2023 — and the race is now about who can show the
 value, not who adopted first.
 Regenerates byte-identically from data/scoreboard02_top10_draft.csv.
@@ -7,7 +7,7 @@ Chart: top-10 ranking bars (length = 11 - rank), coloured by headquarters —
 US dark blue, Canada gold, other grey-blue — with 2025 ranks and the TD 13->10
 and Morgan Stanley 5->9 moves annotated. No dollar figure is charted (TD C$195M
 is TD's own disclosure; Evident's $137M restatement stays unprinted).
-Run from ~/workspace/rbc-ai-wages: python3 make_chart6.py
+Run from repo root: python3 code/make_chart6.py
 """
 import matplotlib
 matplotlib.use("Agg")

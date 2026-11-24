@@ -1,9 +1,8 @@
 # Scoreboard #3 — The Returns Gap — data file
-# Slot: Mon 2026-11-16, 8-9am ET (Act 1 of the Nov 16 double scoreboard; Act 2 is Scoreboard #4, the Capex Tracker, same afternoon).
-# Status: figures verified 2026-11-01 / 2026-11-07 from already-checked material; no new data hunt.
-# Gate: Evident 2026 figures below rest on Evident's own briefing text + the reproduced table
-# (Insurance-Edge 2026-10-07). The CA-vs-US split of the 12 reporting banks is NOT verified —
-# do NOT print a split. Fallback angle (used in the post copy): field-level gap with RBC/TD
+# Figures verified 2026-11-01 / 2026-11-07 from already-checked material.
+# Evident 2026 figures below rest on Evident's own briefing text + the reproduced table
+# (Insurance-Edge 2026-10-07). The CA-vs-US split of the 12 reporting banks is not verified, so
+# no split is printed. The post uses the field-level gap with RBC/TD
 # as the Canadian case. TD figure prints as VALUE, not "return" (no spend denominator disclosed).
 # Currency explicit: CAD where stated.
 metric,value,unit,note,source
