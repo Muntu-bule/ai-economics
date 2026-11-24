@@ -1,6 +1,5 @@
-# LinkedIn Post #1 — Big 5 AI Scoreboard (Mon 2026-11-23)
+# LinkedIn Post #1 — Big 5 AI Scoreboard
 
-## Post copy
 
 Every Big 5 bank is top 30.
 
